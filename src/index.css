@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .active{
+   padding: 8px 10px !important;
+   font-size: 14px !important;
+}
+.header>a{
+    font-size: 14px !important;
+     padding: 8px 10px !important;
+} */
+
+.menu>li>a {
+    padding: 5px 10px;
+    font-size:14px;
+}
